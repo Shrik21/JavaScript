@@ -1,4 +1,4 @@
-
+// link -> https://www.w3schools.com/js/js_datatypes.asp
 
 /* There are two types of data in JavaScirpt
 
