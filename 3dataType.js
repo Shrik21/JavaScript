@@ -21,3 +21,30 @@ console.log(num+8n);
 // With help of typeof we can check datatype of any varibale
 console.log(typeof num);
 
+
+// We get Infinity and -Infinity as a output
+console.log(5/0);
+console.log(-5/0);
+
+console.log(Number.MAX_VALUE *56);
+
+
+let userName = "Shreyansh Kumar";
+console.log(userName);
+
+
+// String 
+
+let user = "Ragini  " + "Kushwaha" ;
+console.log(user);
+
+
+// boolean 
+
+let bool = 6>7;
+console.log(bool);
+
+
+
+
+
