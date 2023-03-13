@@ -17,3 +17,23 @@ else if(num2>num1)
 
 else
     console.log("False");    
+
+
+    /* Ternary Operetors */
+
+    console.log(num1>num2?"num1":"num2");
+
+
+
+    // Switch cases
+
+    let color = "pink";
+
+    switch(color)
+{
+
+    case "red": console.log("Red");break;
+    case "yellow" : console.log("yellow");break;
+    default :console.log( "None of the color match");;
+
+}
